@@ -1,0 +1,12 @@
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Données privées
+.env
+memoire.json
+
+# Fichiers temporaires
+.vscode/
